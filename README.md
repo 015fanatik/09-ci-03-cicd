@@ -48,6 +48,10 @@
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
 
 [maven-metadata](https://github.com/015fanatik/09-ci-03-cicd/blob/8bd9ae910d60bc1b4972c90c492e53cc48c30cd9/screen/maven-metadata.xml)
+
+
+
+
 ![image](https://github.com/015fanatik/09-ci-03-cicd/blob/7ff233395cd17b8f3a82a275510919ec9d58f16d/screen/nexus.png)
 ![image](https://github.com/015fanatik/09-ci-03-cicd/blob/7ff233395cd17b8f3a82a275510919ec9d58f16d/screen/nexus2.png)
 ![image](https://github.com/015fanatik/09-ci-03-cicd/blob/7ff233395cd17b8f3a82a275510919ec9d58f16d/screen/nexus3.png)
