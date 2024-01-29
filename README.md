@@ -75,6 +75,10 @@
 3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
 4. В ответе пришлите исправленный файл `pom.xml`.
 
+![image](https://github.com/015fanatik/09-ci-03-cicd/blob/abfe1cd96b74638d96924fdd57e8b980ae4f7be2/screen/maven.png)
+![image](https://github.com/015fanatik/09-ci-03-cicd/blob/abfe1cd96b74638d96924fdd57e8b980ae4f7be2/screen/maven2.png)
+
+
 ---
 
 ### Как оформить решение задания
