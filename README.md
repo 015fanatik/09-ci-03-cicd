@@ -25,6 +25,12 @@
 8. Запустите анализатор повторно — проверьте, что QG пройдены успешно.
 9. Сделайте скриншот успешного прохождения анализа, приложите к решению ДЗ.
 
+![image](https://github.com/015fanatik/09-ci-03-cicd/blob/140b0ca43cf057cb7c01786c25d5fcf9e56255ed/screen/sonar.png)
+
+![image](https://github.com/015fanatik/09-ci-03-cicd/blob/140b0ca43cf057cb7c01786c25d5fcf9e56255ed/screen/sonar_bugs.png)
+
+![image](https://github.com/015fanatik/09-ci-03-cicd/blob/140b0ca43cf057cb7c01786c25d5fcf9e56255ed/screen/sonar_done.png)
+
 ## Знакомство с Nexus
 
 ### Основная часть
